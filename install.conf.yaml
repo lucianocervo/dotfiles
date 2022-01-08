@@ -4,15 +4,14 @@
 
 - clean: ['~']
 
-# - link:
-#    ~/.dotfiles: ''
+- link:
+#    ~/.dotfiles: '' (ter o nosso dotfiles fora da home directory)
 #    ~/.tmux.conf: tmux.conf
 #    ~/.vim: vim
-#    ~/.vimrc: vimrc
+    ~/.zshrc: zshrc
 
 - create:
     - ~/Work
-    - ~/hey/you/guys
 #    - ~/.downloads
 #    - ~/.vim/undo-history
 
