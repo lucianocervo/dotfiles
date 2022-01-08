@@ -12,3 +12,5 @@ I'm learning about dotfiles at [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz).
 - Trackpad (Three Finger Drag and Tap to Click)
 - .zshrc
 - Git (config and SSH)
+- Homebrew Install
+
