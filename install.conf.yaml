@@ -8,7 +8,8 @@
 #    ~/.dotfiles: '' (ter o nosso dotfiles fora da home directory)
 #    ~/.tmux.conf: tmux.conf
 #    ~/.vim: vim
-    ~/.zshrc: zshrc
+    ~/.zshrc:
+    ~/.gitconfig: 
 
 - create:
     - ~/Work
