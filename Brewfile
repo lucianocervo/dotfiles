@@ -9,8 +9,8 @@ brew "exa"
 brew "git"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
-# Application launcher and productivity software
-cask "alfred"
+# Mac App Store command-line interface
+brew "mas"
 # App to build and share containerized applications and microservices
 cask "docker"
 # Git client focusing on productivity
