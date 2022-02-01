@@ -13,4 +13,5 @@ I'm learning about dotfiles at [dotfiles.eieio.xyz](http://dotfiles.eieio.xyz).
 - .zshrc
 - Git (config and SSH)
 - Homebrew Install
-
+- Don't choose Alfred (cause is a paid app)
+- Snappy (don't turn off the key combination, but I choose install this app)
