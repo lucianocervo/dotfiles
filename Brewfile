@@ -10,18 +10,28 @@ brew "ca-certificates"
 brew "exa"
 # Distributed revision control system
 brew "git"
+# Cryptography and SSL/TLS Toolkit
+brew "openssl@1.1"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.10"
 # User-friendly cURL replacement (command-line HTTP client)
 brew "httpie"
 # Mac App Store command-line interface
 brew "mas"
+# Free (GNU) replacement for the Pico text editor
+brew "nano"
+# Platform built on V8 to build network applications
+brew "node"
+# Code formatter for JavaScript, CSS, JSON, GraphQL, Markdown, YAML
+brew "prettier"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # App to build and share containerized applications and microservices
 cask "docker"
 # Git client focusing on productivity
 cask "gitkraken"
+# Local node for the Nano cryptocurrency
+cask "nano"
 # Open-source code editor
 cask "visual-studio-code"
 mas "GeoGebra 5", id: 845142834
