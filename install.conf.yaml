@@ -9,6 +9,7 @@
 #    ~/.tmux.conf: tmux.conf
 #    ~/.vim: vim
     ~/.zshrc:
+    ~/.zshenv:
     ~/.gitconfig: 
     ~/.config/bat:
       create: true
@@ -20,7 +21,9 @@
 #    - ~/.vim/undo-history
 
 - shell:
-   - 
+  # - chsh -s $(which zsh)
+  - 
      command: ./setup_homebrew.zsh
+     stdin: true
      stdout: true
      stderr: true
