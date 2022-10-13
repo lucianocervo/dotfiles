@@ -26,6 +26,8 @@ brew "nano"
 brew "node"
 # Code formatter for JavaScript, CSS, JSON, GraphQL, Markdown, YAML
 brew "prettier"
+# UNIX shell (command interpreter)
+brew "zsh"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # App to build and share containerized applications and microservices
